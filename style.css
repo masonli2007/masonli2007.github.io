@@ -1,0 +1,394 @@
+/**page1**/
+
+#page1{
+	background-image: url(https://st4.depositphotos.com/13349494/23275/i/450/depositphotos_232755656-stock-photo-grey-shabby-wooden-material-black.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 105%;
+}
+#logo{
+	margin-left: 40px;
+	margin-top: 30px;
+
+}
+#main{
+	height: 870px;
+	width: 70%;
+	margin-left: 270px;
+	margin-top: -60px;
+}
+
+.intro{
+	width: 32%;
+	float: left;
+	height: 100%;
+	margin-left: 10px;
+
+}
+
+.intro:hover{
+	box-shadow: 5px 5px 3px black;
+}
+
+.intro h3{
+	text-align: center;
+	margin-top: 300px;
+	color: gray;
+	text-shadow: 0px 5px 3px gray;
+
+}
+.intro h2{
+	text-align: center;
+	color: white;
+	font-family: "Oswald", sans-seri;
+    font-weight: <weight>;
+    text-shadow: 0px 3px 3px white;
+
+}
+
+
+/**page2**/
+
+#page2{
+	background-image: url(https://www.rollingstone.com/wp-content/uploads/2024/03/lead-2-3BP_102_Unit_03502RC.jpg?w=1581&h=1054&crop=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bar{
+	width: 250px;
+	height: 950px;
+	background-color: black;
+	position: absolute;
+	top: 0;
+
+	opacity: 0.8;
+
+
+}
+
+.return{
+	position: absolute;
+	right: 50px;
+	top: 10;
+	font-size: 30px;
+}
+.return p{
+	color: white;
+	font-size: 30px;
+}
+
+.bar p,h2{
+	color: white;
+	text-align: center;
+	font-family: "Oswald", sans-seri;;
+}
+
+.bar h2{
+	margin-top: 50px;
+	font-weight:  <weight>;
+}
+
+#of{
+	margin-top: -20px;
+}
+
+.first{
+	margin-top: 120px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 5px 3px white;
+}
+
+.others{
+	color: gray;
+}
+
+
+.others:hover{
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 5px 3px white;
+}
+
+
+#yewenjie{
+	width: 400px;
+	height: 950px;
+	background-color: black;
+	opacity: 0.95;
+	margin-left: 250px;
+	position: absolute;
+	top: 0;
+
+}
+
+#yewenjie h1{
+	color: white;
+	margin-top: 200px;
+	margin-left: 30px;
+	text-shadow: 0px 2px 3px white;
+	
+}
+
+#yewenjie p{
+	color: white;
+	margin: 5px 30px;
+	margin-top: 70px;
+	font-family: cursive;
+}
+
+.bar a{
+	text-decoration: none;
+}
+
+
+.other2{
+	margin-top: 120px;
+	color: gray;
+}
+
+.first2{
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 5px 3px white;
+}
+
+.other2:hover{
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 5px 3px white;
+}
+
+#page22{
+	background-image: url(https://truth.bahamut.com.tw/s01/201906/d138c0b1890f6a739bfb0ca1b204fc6c.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#page23{
+	background-image: url(https://cdna.artstation.com/p/assets/images/images/074/047/444/large/lin-zhang-pic02.jpg?1711078661);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#page24{
+	background-image: url(http://zqb.cyol.com/images/1/20230119/1674066915075_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#page25{
+	background-image: url(http://zqb.cyol.com/images/1/20230119/1674066902642_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/**page3**/
+
+#page3{
+	background-color: black;
+	color: white;
+}
+
+
+#mason{
+	width: 100%;
+	float: right;
+	height: 800px;
+	background-size: cover;
+	margin-left: -20px;
+	background: linear-gradient(to left, black, transparent),
+    url("https://cdn.pingwest.com/portal/2020/03/30/YjHW4BdyNyNMB345CA_K5d5nD5wpG_wm.jpg");
+    background-size: cover;
+    margin-bottom: 50px;
+
+
+}
+
+#words{
+	width: 35%;
+	float: right;
+	height: 550px;
+	margin-top: -650px;
+	margin-right: 80px;
+	text-align: right;
+}
+
+#words h1{
+	text-align: right;
+	color: white;
+	margin-bottom: 5px
+}
+
+
+
+#words img{
+	margin-left: 290px;
+	margin-bottom: 50px;
+}
+
+#a{
+	color: gray;
+    text-align: right;
+	border-right: 3px solid gray;
+	display: inline;
+
+}
+
+#b{
+	color: gray;
+	display: inline;
+	text-align: right;
+	display: inline;
+}
+
+#c{
+	color: white;
+	margin-top: 50px;
+	text-align: right;
+}
+
+#d{
+	color: gray;
+	display: inline;
+}
+
+#e{
+	color: white;
+	display: inline;
+}
+
+
+#carton{
+	color: white;
+	display: inline;
+	border-right: 3px solid gray;
+	padding-right: 10px;
+	margin-top: 80px;
+}
+
+#wosan{
+	color: gray;
+	display: inline;
+	padding-left: 10px;
+}
+
+#row{
+	height: 400px;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+
+.col{
+	float: left;
+	width: 30%;
+	height: 350px;
+	margin-left: 30px;
+}
+
+
+#oth{
+	display: inline;
+	border-right: 3px solid gray;
+	padding-right: 10px;
+}
+
+
+#total{
+	width: 50%;
+	height: 150px;
+}
+
+#ana{
+	margin-top: 35px;
+}
+
+#ana2{
+	color: gray;
+}
+
+#row2{
+	height: 300px;
+	width: 100%;
+
+}
+
+.col2{
+	float: left;
+	width: 23%;
+	height: 300px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.col2 h4,h5{
+	margin-top: -5px;
+
+}
+
+#hh{
+	opacity: 0;
+	color: black;
+
+}
+
+.col2 img{
+	z-index: 1;
+}
+
+.fun{
+	width: 100%;
+	height: 40px;
+	background-color: darkgray;
+	margin-top: -20px;
+	box-shadow: 5px 5px 2px white;
+}
+
+.fun:hover{
+	width: 100%;
+	height: 200px;
+	background-color: darkgray;
+	margin-top: -200px;
+	z-index:2;
+	position: relative;
+	display: block;
+
+}
+
+.fun:hover #hh{
+	opacity: 1;
+	color: black;
+	font-size: 20px;
+
+}
+
+/**form**/
+
+#form{
+	color: white;
+	background-color: black;
+	text-shadow: 2px 2px 5px white;
+}
+
+label, input{
+	font-size: 20px;
+}
+
+#la{
+	font-size: 30px;
+}
+
+
+/**form2**/
+
+#form2{
+	background-color: black;
+    color: white;
+}
+
+#th{
+	font-size: 60px;
+}
+
